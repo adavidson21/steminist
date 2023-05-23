@@ -7,7 +7,7 @@
   # site default theme ["auto", "light", "dark"]
   defaultTheme = "auto"
   # public git repo url only then enableGitInfo is true
-  gitRepo = ""
+  gitRepo = "https://github.com/adavidson21"
   # which hash function used for SRI, when empty, no SRI is used
   # ["sha256", "sha384", "sha512", "md5"]
   fingerprint = ""
@@ -141,10 +141,10 @@
       paginate = 6
   # Social config in home page
   [params.social]
-    GitHub = ""
-    Linkedin = ""
+    GitHub = "https://github.com/adavidson21"
+    Linkedin = "https://www.linkedin.com/in/alexisdavidson/"
     Twitter = ""
-    Instagram = ""
+    Instagram = "techielexie"
     Facebook = ""
     Telegram = ""
     Medium = ""
@@ -203,7 +203,7 @@
     XMPP = ""
     Matrix = ""
     Bilibili = ""
-    Discord = ""
+    Discord = "steministx#2726"
     DiscordInvite = ""
     Lichess = ""
     ORCID = ""
@@ -213,7 +213,7 @@
     Plume = ""
     HackTheBox = ""
     RootMe= ""
-    Email = ""
+    Email = "alexis.davidson221@gmail.com"
     Phone = ""
     RSS = ""
 
