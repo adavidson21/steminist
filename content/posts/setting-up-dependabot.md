@@ -22,7 +22,6 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
-    automerge: true
     reviewers:
       - "username1"
       - "username2"
@@ -39,7 +38,6 @@ Let's briefly discuss each of these settings:
 - `package-ecosystem` specifies the package manager. For a Node.js project, use "npm".
 - `directory` indicates where your package files are stored. For most projects, this will simply be the root directory ("/").
 - `schedule.interval` sets how often Dependabot will check for updates. In this example, it checks daily.
-- `automerge` allows Dependabot to automatically merge updates that pass your CI tests.
 - `reviewers` lists GitHub usernames to automatically assign for reviewing version updates.
 - `labels` will automatically apply the listed labels to the Dependabot's PRs.
 - `ignore` lets you specify certain dependencies that you do not wish Dependabot to update.
