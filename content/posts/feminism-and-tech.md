@@ -1,7 +1,7 @@
 ---
 title: "The Intersection of Feminism and Tech"
 date: 2023-05-31T22:35:21-04:00
-draft: true
+draft: false
 tags: ["Feminism", "Tech", "Careers", "STEM", "opinion"]
 ---
 
