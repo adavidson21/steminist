@@ -2,7 +2,7 @@
 title: "Setting Up GitHub Dependabot for New Project"
 date: 2023-07-10T22:35:21-04:00
 draft: false
-tags: ["GitHub", "Dependabot", "Repo", "Tutorial"s]
+tags: ["GitHub", "Dependabot", "Repo", "Tutorial"]
 ---
 
 We're always on the lookout for ways to make project management smoother and more efficient. Today, we'll be exploring how to set up GitHub Dependabot for a new project. Dependabot is a fantastic tool from GitHub that can help you maintain your project's dependencies, by automatically opening pull requests to update them.
